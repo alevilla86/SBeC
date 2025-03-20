@@ -11,6 +11,10 @@ RUN apt-get update && apt-get install -y \
 
 # Copy the source code
 COPY ./__init__.py /usr/local/sbec/
+COPY ./Rule.py /usr/local/sbec/
+
+# Copy the rules
+COPY ./rules.json /usr/local/sbec/
 
 # Copy the dataseet
 COPY ./cleaned_travel_dataset.csv /usr/local/sbec/
