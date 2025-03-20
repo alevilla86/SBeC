@@ -1,0 +1,36 @@
+{
+    "rules": [
+        {
+            "name": "cosine_similarity",
+            "type": "cosine_similarity",
+            "columns": ["hotel_name", "city_name"],
+            "weight": 1.0
+        },
+        {
+            "name": "budget_threshold",
+            "type": "threshold",
+            "threshold": 1000,
+            "weight": 0.5,
+            "column": "budget"
+        },
+        {
+            "name": "popularity_threshold",
+            "type": "threshold",
+            "threshold": 1000,
+            "weight": 0.5,
+            "column": "popularity"
+        },
+        {
+            "name": "hotel_name_equality",
+            "type": "equality",
+            "weight": 0.5,
+            "column": "hotel_name"
+        },
+        {
+            "name": "city_name_equality",
+            "type": "equality",
+            "weight": 0.5,
+            "column": "city_name"
+        }
+    ]
+}

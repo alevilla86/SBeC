@@ -1,0 +1,76 @@
+Destination,Month,Duration (days),Traveler gender,Traveler nationality,Accommodation type,Accommodation cost,Transportation cost
+"London, UK",5.0,7.0,Male,American,Hotel,1200.0,600.0
+"Phuket, Thailand",6.0,5.0,Female,Canadian,Resort,800.0,500.0
+"Bali, Indonesia",7.0,7.0,Male,Korean,Villa,1000.0,700.0
+"New York, USA",8.0,14.0,Female,British,Hotel,2000.0,1000.0
+"Paris, France",10.0,5.0,Male,American,Hotel,1500.0,800.0
+"Sydney, Australia",11.0,10.0,Female,Australian,Hostel,500.0,1200.0
+"Rio de Janeiro, Brazil",1.0,7.0,Male,Brazilian,Airbnb,900.0,600.0
+"Dubai, United Arab Emirates",3.0,7.0,Male,Emirati,Resort,2500.0,800.0
+"Cancun, Mexico",4.0,7.0,Female,Mexican,Hotel,1000.0,500.0
+"Honolulu, Hawaii",6.0,8.0,Female,Chinese,Resort,3000.0,1200.0
+"Berlin, Germany",7.0,9.0,Male,German,Hotel,1400.0,700.0
+"Marrakech, Morocco",8.0,7.0,Female,Moroccan,Riad,600.0,400.0
+Paris,9.0,9.0,Female,American,Hotel,900.0,400.0
+Bali,8.0,10.0,Male,Chinese,Resort,1500.0,700.0
+Tokyo,10.0,10.0,Male,Japanese,Hotel,1200.0,800.0
+Sydney,12.0,7.0,Male,Australian,Hotel,1000.0,600.0
+Bangkok,9.0,8.0,Male,Indian,Hostel,400.0,500.0
+Hawaii,8.0,9.0,Male,Korean,Resort,2000.0,800.0
+Japan,5.0,8.0,Female,American,Hotel,800.0,500.0
+Greece,10.0,8.0,Male,American,Airbnb,400.0,600.0
+Mexico,1.0,10.0,Male,British,Airbnb,500.0,800.0
+"Paris, France",6.0,7.0,Female,American,Hotel,1400.0,600.0
+"Tokyo, Japan",12.0,8.0,Female,Chinese,Hostel,500.0,900.0
+"Cancun, Mexico",7.0,7.0,Male,American,Resort,2200.0,800.0
+"Rio de Janeiro, Brazil",11.0,7.0,Female,Brazilian,Hotel,1200.0,700.0
+"Barcelona, Spain",8.0,7.0,Female,Spanish,Hostel,600.0,600.0
+"New York City, USA",9.0,7.0,Male,American,Hotel,1500.0,500.0
+"Amsterdam, Netherlands",6.0,8.0,Female,Dutch,Hotel,1100.0,700.0
+"New York, USA",12.0,7.0,Female,Canadian,Hotel,1400.0,800.0
+Paris,7.0,6.0,Female,American,Hotel,1200.0,800.0
+Sydney,6.0,6.0,Male,Australian,Hotel,1500.0,1200.0
+Barcelona,8.0,7.0,Female,Spanish,Vacation rental,900.0,700.0
+Bali,2.0,7.0,Male,American,Resort,2200.0,1000.0
+New York,7.0,6.0,Male,American,Vacation rental,1000.0,800.0
+Bangkok,9.0,8.0,Female,Indian,Hostel,300.0,700.0
+Bali,5.0,8.0,Female,British,Resort,1800.0,1000.0
+"Bali, Indonesia",8.0,7.0,Female,South Korean,Resort,500.0,800.0
+"Cancun, Mexico",4.0,7.0,Female,Mexican,Resort,800.0,500.0
+"Paris, France",6.0,7.0,Male,British,Hotel,1200.0,700.0
+"Bali, Indonesia",11.0,7.0,Female,Taiwanese,Resort,600.0,700.0
+"Sydney, Aus",2.0,7.0,Male,Australian,Hotel,900.0,600.0
+"Bangkok, Thai",5.0,7.0,Female,Korean,Hotel,400.0,400.0
+"New York, USA",8.0,7.0,Male,American,Hotel,1500.0,1000.0
+"Phuket, Thai",1.0,7.0,Female,British,Resort,700.0,800.0
+Paris,6.0,6.0,Male,American,Hotel,800.0,500.0
+Bali,8.0,11.0,Female,Spanish,Resort,1200.0,700.0
+Sydney,9.0,9.0,Male,Australian,Hotel,900.0,600.0
+London,11.0,11.0,Male,British,Hostel,300.0,400.0
+Dubai,1.0,8.0,Female,Emirati,Hotel,1000.0,800.0
+Rome,3.0,11.0,Female,Italian,Hostel,200.0,350.0
+Paris,6.0,5.0,Male,USA,Hotel,500.0,800.0
+Sydney,11.0,9.0,Male,South Korea,Hostel,200.0,1200.0
+London,2.0,5.0,Female,UK,Hotel,600.0,700.0
+Rome,8.0,7.0,Female,Taiwan,Hotel,700.0,900.0
+Cape Town,1.0,8.0,Female,Spain,Airbnb,500.0,1500.0
+Bali,7.0,6.0,Female,South Korea,Villa,1200.0,1000.0
+Paris,5.0,5.0,Male,USA,Hotel,1000.0,800.0
+Bali,8.0,8.0,Female,Taiwan,Resort,1500.0,1200.0
+Sydney,7.0,9.0,Male,Canada,Hostel,300.0,900.0
+Phuket,9.0,7.0,Male,Singapore,Villa,2000.0,700.0
+Phnom Penh,9.0,5.0,Male,Cambodia,Hostel,200.0,500.0
+"Tokyo, Japan",2.0,9.0,Female,American,Hotel,1000.0,700.0
+"Sydney, Aus",5.0,11.0,Female,Chinese,Airbnb,800.0,1000.0
+"Bali, Indonesia",7.0,10.0,Female,Korean,Hostel,500.0,800.0
+"Cancun, Mexico",8.0,8.0,Male,American,Hotel,1300.0,600.0
+"Athens, Greece",9.0,10.0,Female,Korean,Airbnb,700.0,900.0
+"Tokyo, Japan",10.0,8.0,Male,Korean,Hotel,1200.0,700.0
+"Sydney, Aus",11.0,10.0,Female,Chinese,Airbnb,900.0,1000.0
+"Paris, France",12.0,8.0,Male,American,Hostel,400.0,700.0
+"Bali, Indonesia",2.0,8.0,Female,Canadian,Hotel,800.0,800.0
+"Paris, France",5.0,6.0,Male,American,Hotel,5000.0,2500.0
+"Sydney, Australia",6.0,6.0,Female,Australian,Hotel,6000.0,3000.0
+"New York City, USA",7.0,7.0,Female,American,Hotel,8000.0,2500.0
+"Vancouver, Canada",8.0,6.0,Female,Canadian,Hotel,5000.0,3000.0
+"Barcelona, Spain",9.0,7.0,Female,Spanish,Airbnb,6000.0,2500.0
